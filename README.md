@@ -6,7 +6,7 @@ Redirect to index.xhtml
 Where content goes
 # style.css
 Styles
-# Main link
-https://xhtml.tehost.ml/index.xhtml
 # Github link
 https://github.tehost.ml/index.xhtml
+# Alt link
+https://XHTML.tehost.ml/index.xhtml

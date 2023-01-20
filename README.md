@@ -9,4 +9,4 @@ Styles
 # Main link
 https://xhtml.tehost.ml/index.xhtml
 # Github link
-https://xx171129xx.github.io/XHTML5/index.xhtml
+https://github.tehost.ml/index.xhtml

@@ -4,6 +4,8 @@ XHTML5 boilerplate code, derived from an old template.
 Redirect to index.xhtml
 # index.xhtml
 Where content goes
+# style.css
+Styles
 # Main link
 https://xhtml.tehost.ml/index.xhtml
 # Github link
